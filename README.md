@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @raucci
-- 👀 I’m interested in learning about python and other languages
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on companies doing internship
-- 📫 How to reach me osbourneluca@gmail.com  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: Just a Brazilian in Portugal studying to be a future Dev
+### Hi there, I'm Luca Raucci (`@raucci`)
 
-<!---
-raucci/raucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineering (*Engenharia Informática*) student at **ESTGV — Polytechnic Institute of Viseu (IPV)**, Portugal.
+
+- **Focus areas:** C & Data Structures, Python desktop/system tooling, and Web Applications (HTML5 / JS / Tailwind / Supabase).
+- **Currently building:** Desktop automation utilities (`PyQt6`, Win32 APIs, encrypted local state) and production-focused web tools.
+- **Languages:** Portuguese (Native) · English (B2/C1) · German (Learning)
+- **Reach me:** `luca.f.raucci@gmail.com`
